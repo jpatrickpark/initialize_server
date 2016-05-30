@@ -6,3 +6,4 @@ filetype plugin indent on
 :command W w
 :command Q q
 :set showcmd cursorline wildmenu showmatch
+:colorscheme desert
