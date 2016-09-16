@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Create a non-root user with sudo priviliege first
+
 # installs pathogen
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
