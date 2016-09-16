@@ -7,7 +7,7 @@ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
 # installs vim-go-ide
-git clone git@github.com:farazdagi/vim-go-ide.git ~/.vim_go_runtime
+git clone https://github.com/farazdagi/vim-go-ide.git ~/.vim_go_runtime
 sh ~/.vim_go_runtime/bin/install
 echo "alias vimgo='vim -u ~/.vimrc.go'" >> .profile
 
