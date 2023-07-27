@@ -1,1 +1,2 @@
 sudo apt install --no-install-recommends google-perftools
+sudo apt-get install libgoogle-perftools4 libtcmalloc-minimal4 -y
