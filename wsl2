@@ -4,3 +4,5 @@ sudo apt-get install libgoogle-perftools4 libtcmalloc-minimal4 -y
 # https://stackoverflow.com/questions/55313610/importerror-libgl-so-1-cannot-open-shared-object-file-no-such-file-or-directo
 sudo apt-get update && sudo apt-get install ffmpeg libsm6 libxext6  -y
 sudo apt-get install libgl1
+
+# install docker following https://docs.docker.com/desktop/wsl/
