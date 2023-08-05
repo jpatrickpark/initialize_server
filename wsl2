@@ -6,3 +6,4 @@ sudo apt-get update && sudo apt-get install ffmpeg libsm6 libxext6  -y
 sudo apt-get install libgl1
 
 # install docker following https://docs.docker.com/desktop/wsl/
+# install npm following https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
